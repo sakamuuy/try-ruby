@@ -22,7 +22,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+$ bundle exec exe/first camelize snake_case_string
+```
+
+```
+$ bundle exec exe/str_convert_utils snake CamelCaseString
+```
 
 ## Development
 
